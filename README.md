@@ -1,4 +1,6 @@
 # Kivy-Opencv
+Building with Python-for-android (p4a) an opencv andorid app
+</break>
 Plyer camera, Opencv, Kivy
 
 ### Main requirements and how to run in terminal
@@ -6,4 +8,5 @@ TerminalPrompt:~$ p4a apk --private $HOME/Documents/kivy/cv2p4a --package=org.ex
 
 ### In case of crash
 $ adb devices (to show device)
+</break>
 $ adb logcat
